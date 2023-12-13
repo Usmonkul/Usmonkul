@@ -1,6 +1,12 @@
-<h1 align="center">Hi, I'm Usmon Khakim</h1>
-<h4 align="center">I`n a Full-stack Developer</h4>
 
+
+### <div align="center">I'm Usmon Khakim, a Software Engineer 👨‍💻 </div>  
+
+<br/>
+
+- 🔭 Currently learning Backend with Python (Flask)
+
+<br/>  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -17,19 +23,25 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/usmonhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmonhakim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usmonkul khakimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usmonkul khakimov" height="30" width="40" /></a>
-</p>
+<br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmonkul&" alt="usmonkul" /></p>
 
-<details>
-  <summary> Show Usmon's Github Stats</summary>
-  <br>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmonkul&show_icons=true&locale=en" alt="usmonkul" /></p>
-</details>
+
+<br/>  
+<h3 align="center">Connect with me:</h3>
+
+<div align="center">
+<a href="https://github.com/Usmonkul" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/usmonkul-khakimov/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+
+<br/>  
+
 <!--
 **Usmonkul/Usmonkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
